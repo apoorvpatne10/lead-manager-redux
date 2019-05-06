@@ -2,7 +2,7 @@
 
 Getting my hands dirty in django with react/redux.
 
-## Install dependencies
+## Install the dependencies
 ```npm install```
 
 ## Serve API on localhost:8000
@@ -10,6 +10,3 @@ Getting my hands dirty in django with react/redux.
 
 ## Run webpack (from root)
 ```npm run dev```
-
-## Build for production
-```npm run build```
