@@ -3,7 +3,8 @@
 Getting my hands dirty in django with react/redux. Credits to [Brad](https://www.youtube.com/watch?v=Uyei2iDA4Hs).
 
 # Getting started
-Create a new virtual environment.
+Create a new virtual environment. Download the [redux-dev tool](https://github.com/zalmoxisus/redux-devtools-extension) extension.
+
 
 ## Install the dependencies
 ```npm install```
