@@ -21,6 +21,6 @@ Create a new virtual environment.
 
 ## Add and delete leads
 
-* ![add_lead](https://i.imgur.com/5q98ASF.png)
+![add_lead](https://i.imgur.com/5q98ASF.png)
 
-* ![delete_lead](https://i.imgur.com/F2GZ53G.png)
+![delete_lead](https://i.imgur.com/F2GZ53G.png)
