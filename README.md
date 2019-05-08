@@ -1,6 +1,6 @@
 # lead-manager-redux
 
-Getting my hands dirty in django with react/redux. 
+Getting my hands dirty in django with react/redux. Credits to ![Brad](https://www.youtube.com/watch?v=Uyei2iDA4Hs)
 
 # Getting started
 Create a new virtual environment.
